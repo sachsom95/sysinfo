@@ -12,3 +12,5 @@ setup(name="systeminfo",
         'console_scripts':['comp30830_systeminfo=systeminfo.main:main']
         }
       )
+
+print("Fred")
